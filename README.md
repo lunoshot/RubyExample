@@ -1,2 +1,1 @@
-RubyExample
-===========
+Examples from Ruby Guide
